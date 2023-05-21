@@ -1,0 +1,7 @@
+C:\Users\RayanGate\source\repos\QueueFunc_Example\QueueFunc_Example\bin\Debug\QueueFunc_Example.exe.config
+C:\Users\RayanGate\source\repos\QueueFunc_Example\QueueFunc_Example\bin\Debug\QueueFunc_Example.exe
+C:\Users\RayanGate\source\repos\QueueFunc_Example\QueueFunc_Example\bin\Debug\QueueFunc_Example.pdb
+C:\Users\RayanGate\source\repos\QueueFunc_Example\QueueFunc_Example\obj\Debug\QueueFunc_Example.csproj.AssemblyReference.cache
+C:\Users\RayanGate\source\repos\QueueFunc_Example\QueueFunc_Example\obj\Debug\QueueFunc_Example.csproj.CoreCompileInputs.cache
+C:\Users\RayanGate\source\repos\QueueFunc_Example\QueueFunc_Example\obj\Debug\QueueFunc_Example.exe
+C:\Users\RayanGate\source\repos\QueueFunc_Example\QueueFunc_Example\obj\Debug\QueueFunc_Example.pdb
